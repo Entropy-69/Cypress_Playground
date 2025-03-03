@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cypress": "^14.1.0"
+  },
+  "name": "cypress_playground",
+  "version": "1.0.0",
+  "description": "Aj Learning Cypress",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Entropy-69/Cypress_Playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Entropy-69/Cypress_Playground/issues"
+  },
+  "homepage": "https://github.com/Entropy-69/Cypress_Playground#readme"
+}
